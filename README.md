@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=5ZLmcDi30YI&t=68s
 
 https://raw.githubusercontent.com/RodrigoMvs123/JavaScript-AI-Course-no-Python-MongooseJS-Astra-DB/main/README.md
 
+https://github.com/RodrigoMvs123/JavaScript-AI-Course-no-Python-MongooseJS-Astra-DB/blame/main/README.md
+
 Introduction
 Course Outline
 The Vector Search Database
